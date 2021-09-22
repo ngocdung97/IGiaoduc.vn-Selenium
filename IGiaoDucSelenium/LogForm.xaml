@@ -7,12 +7,12 @@
         mc:Ignorable="d"
         Title="Automation Get Data igiaoduc.vn" Height="606.316" Width="1006.548">
     <Grid>
-        <ListView Name="lvLog" HorizontalAlignment="Stretch" Margin="20, 20, 20, 20" VerticalAlignment="Stretch">
+        <ListView Name="lvLog" HorizontalAlignment="Stretch" Margin="20,67,20,20" VerticalAlignment="Stretch">
             <ListView.View>
                 <GridView>
                     <GridViewColumn/>
                 </GridView>
             </ListView.View>
         </ListView>
-    </Grid>
+     </Grid>
 </Window>
